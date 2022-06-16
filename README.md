@@ -23,7 +23,7 @@
         <li> GCSE Double Science - 4/4 (C)/(C) </li>
         <li> GCSE Maths - 4/C </li>
         <li> GCSE English Literature - 3/D </li>
-        <li> GCSE Computer Science - 2/E. I did a project within the GCSE which made for 50% of my GCSE Grade but didn't count due to said being leaked. In that 50% project, I got a grade 6/B</li>
+        <li> GCSE Computer Science - 2/E. I did a project within the GCSE which made for more than 50% of my GCSE Grade but didn't count due to said being leaked. In that project, I got a grade 6/B and failed due to paper results.</li>
         
 <!-- <h3> My programming Projects <h3> 
         <ul>
