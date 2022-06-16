@@ -3,6 +3,9 @@
 <h3> Programming Knowledge <h3>
     <ul>
         <li> Python - Intermediate </li>
+            <ul>
+                <li> Pandas - Intermediate </li>
+             </ul>
         <li> HTML - Beginner </li>
     </ul>
     
