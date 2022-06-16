@@ -7,10 +7,26 @@
                 <li> Pandas - Intermediate </li>
                 <li> MatPlotLib - Beginner </li>
             </ul>
-<h3> My IT qualifications </h3>
-    <ul>    
-        <li> BTEC National Foundation Diploma in Information Technology Level 3/Equivilent to 1 A level: PASS - Q tagged due to Covid Pandemic </li>
-        <li> BTEC National Extended Diploma in Information Technology Level 3/Equivilent to 2 A levels: Overall Course Grade - MMP/Merit,Merit,Pass </li>
+<h3> My IT Qualifications </h3>
+    <ul>
+      <!--  <li> First Certificate in Information and Creative Technology Level 2: </li>
+            <ul>
+                <li> Unit 1: Online World: Pass Overall </li>
+                <li> Unit
+            </ul> -->
+        <li> BTEC National Foundation Diploma in Information Technology Level 3/Equivilent to 1 A level: </li>
+            <p> PASS - Q tagged due to Covid Pandemic </p>
+            <ul>
+                <li> Unit 1: Information Technology Systems: Pass </li>
+                <li> Unit 2: Creating Systems to Manage Data: Pass </li>
+                <li> Unit 3: Using Social Media in Business: Pass </li>
+                <li> Unit 4: Programming: Pass </li>
+                <li> Unit 6: Website Development: Pass </li>
+                <li> Unit 7: Mobile Apps Development: Pass </li>
+            </ul>
+        <p></p> 
+<!--        <li> BTEC National Extended Diploma in Information Technology Level 3/Equivilent to 2 A levels: </li>
+            <p> Overall Course Grade - MMP/Merit,Merit,Pass </p>
             <ul>
                 <li> Unit 11: Cyber Security and Incident Management Exam March 2022: P/Pass Overall </li>
                 <li> Unit 14: IT Service Delivery Exam May 2022: </li>
@@ -18,11 +34,11 @@
                 <li> Unit 13: Software Testing: </li>
                 <li> Unit 19: Internet of Things: </li>
                 <li> Unit 12: IT Support and Management: Pass Overall </li>
-                <li> Unit 8: Computer Games Development: Failed </li>
-            </ul>
+                <li> Unit 8: Computer Games Development: Failed Unit </li>
+            </ul> -->
    </ul> 
     
-<h3> Additonal qualifications </h3>
+<h3> Additonal Qualifications: </h3>
     <ul> 
         <li> GCSE Design and Technology Electrionics - 5/B </li>
         <li> GCSE Business Studies - 4/C </li>
