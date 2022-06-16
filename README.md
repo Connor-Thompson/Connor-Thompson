@@ -5,10 +5,7 @@
         <li> Python - Intermediate </li>
             <ul>
                 <li> Pandas - Intermediate </li>
-             </ul>
-        <li> HTML - Beginner </li>
-    </ul>
-    
+            </ul>
 <h3> My IT qualifications </h3>
     <ul>    
         <li> BTEC National Foundation Diploma in Information Technology Level 3/Equivilent to 1 A level </li>
