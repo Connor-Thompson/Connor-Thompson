@@ -5,14 +5,21 @@
         <li> Python - Intermediate </li>
             <ul>
                 <li> Pandas - Intermediate </li>
+                <li> MatPlotLib - Beginner </li>
             </ul>
 <h3> My IT qualifications </h3>
     <ul>    
-        <li> BTEC National Foundation Diploma in Information Technology Level 3/Equivilent to 1 A level </li>
-<!--    <li> BTEC National Extended Diploma in Information Technology Level 3/Equivilent to 2 A levels -->
-        <li> Cyber Security and Incident Management Exam March 2022: PASS </li>
-<!--    <li> IT Service Delivery Exam May 2022:  -->
-        <li>     
+        <li> BTEC National Foundation Diploma in Information Technology Level 3/Equivilent to 1 A level: PASS - Q tagged due to Covid Pandemic </li>
+        <li> BTEC National Extended Diploma in Information Technology Level 3/Equivilent to 2 A levels: Overall Course Grade - MMP/Merit,Merit,Pass </li>
+            <ul>
+                <li> Unit 11: Cyber Security and Incident Management Exam March 2022: P/Pass Overall </li>
+                <li> Unit 14: IT Service Delivery Exam May 2022: </li>
+                <li> Unit 9: Project Managment: Distinction Overall </li>
+                <li> Unit 13: Software Testing: </li>
+                <li> Unit 19: Internet of Things: </li>
+                <li> Unit 12: IT Support and Management: Pass Overall </li>
+                <li> Unit 8: Computer Games Development: Failed </li>
+            </ul>
    </ul> 
     
 <h3> Additonal qualifications </h3>
