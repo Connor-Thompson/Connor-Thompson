@@ -9,13 +9,20 @@
             </ul>
 <h3> My IT Qualifications </h3>
     <ul>
-      <!--  <li> First Certificate in Information and Creative Technology Level 2: </li>
+        <li> 2019 - 2020: First Certificate in Information and Creative Technology Level 2: </li>
+        <p> Overall Course Grade: MP/Merit Pass</p>
+        <Character Reference Available for this time period.>
             <ul>
-                <li> Unit 1: Online World: Pass Overall </li>
-                <li> Unit
-            </ul> -->
-        <li> BTEC National Foundation Diploma in Information Technology Level 3/Equivilent to 1 A level: </li>
-            <p> PASS - Q tagged due to Covid Pandemic </p>
+                <li> Unit 1: Online World Exam: Pass Overall </li>
+                <li> Unit 2: Technology Systems Exam: Pass Overall </li>
+                <li> Unit 12: Creating Digital Graphics: Distinction Overall </li>
+                <li> Unit 6: Creating Digital Graphics: Merit Overall </li>
+                <li> Unit 13: Website Development: Merit Overall </li>
+                <li> Unit 3: Digital Portfolio: Merit Overall </li>
+            </ul> 
+            <p></p>
+        <li> 2020 - 2021: BTEC National Foundation Diploma in Information Technology Level 3/Equivilent to 1 A level: </li>
+            <p>Overall Course Grade: PASS - Q tagged due to Covid Pandemic </p>
             <ul>
                 <li> Unit 1: Information Technology Systems: Pass </li>
                 <li> Unit 2: Creating Systems to Manage Data: Pass </li>
@@ -25,8 +32,8 @@
                 <li> Unit 7: Mobile Apps Development: Pass </li>
             </ul>
         <p></p> 
-<!--        <li> BTEC National Extended Diploma in Information Technology Level 3/Equivilent to 2 A levels: </li>
-            <p> Overall Course Grade - MMP/Merit,Merit,Pass </p>
+<!--        <li> 2021 - 2022: BTEC National Extended Diploma in Information Technology Level 3/Equivilent to 2 A levels: </li>
+            <p> Overall Course Grade: MMP/Merit,Merit,Pass </p>
             <ul>
                 <li> Unit 11: Cyber Security and Incident Management Exam March 2022: P/Pass Overall </li>
                 <li> Unit 14: IT Service Delivery Exam May 2022: </li>
