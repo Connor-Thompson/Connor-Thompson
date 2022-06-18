@@ -21,8 +21,7 @@
                 <li> Unit 3: Digital Portfolio: Merit Overall </li>
             </ul> 
             <p></p>
-        <li> 2020 - 2021: BTEC National Foundation Diploma in Information Technology Level 3/Equivilent to 1 A level: </li>
-            <p>Overall Course Grade: PASS - Q tagged due to Covid Pandemic </p>
+        <li> 2020 - 2021: BTEC National Foundation Diploma in Information Technology Level 3/Equivilent to One A level: Overall Course Grade: PASS - Q tagged due to Covid Pandemic </li>
             <ul>
                 <li> Unit 1: Information Technology Systems: Pass </li>
                 <li> Unit 2: Creating Systems to Manage Data: Pass </li>
