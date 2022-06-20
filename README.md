@@ -15,7 +15,7 @@
             <ul>
                 <li> Unit 1: Online World Exam: Pass Overall </li>
                 <li> Unit 2: Technology Systems Exam: Pass Overall </li>
-                <li> Unit 12: Creating Digital Graphics: Distinction Overall </li>
+                <li> Unit 12: Software Development: Distinction Overall </li>
                 <li> Unit 6: Creating Digital Graphics: Merit Overall </li>
                 <li> Unit 13: Website Development: Merit Overall </li>
                 <li> Unit 3: Digital Portfolio: Merit Overall </li>
