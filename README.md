@@ -47,7 +47,7 @@
 <h3> Additonal Qualifications: </h3>
     <ul> 
         <li> GCSE Design and Technology Electrionics - 5/B </li>
-        <li> GCSE Business Studies - 4/C </li>
+        <li> GCSE Business Studies - 4/C </li> 
         <li> GCSE English Language - 4/C </li>
         <li> GCSE Double Science - 4/4 (C)/(C) </li>
         <li> GCSE Maths - 4/C </li>
