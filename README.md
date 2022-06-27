@@ -31,17 +31,16 @@
                 <li> Unit 7: Mobile Apps Development: Pass </li>
             </ul>
         <p></p> 
-<!--        <li> 2021 - 2022: BTEC National Extended Diploma in Information Technology Level 3/Equivilent to 2 A levels: </li>
-            <p> Overall Course Grade: MMP/Merit,Merit,Pass </p>
+            <li> 2021 - 2022: BTEC National Extended Diploma in Information Technology Level 3/Equivilent to 2 A levels: </li>
+            <p> Overall Course Grade: Predicted MMM/Merit,Merit,Merit </p>
             <ul>
                 <li> Unit 11: Cyber Security and Incident Management Exam March 2022: P/Pass Overall </li>
-                <li> Unit 14: IT Service Delivery Exam May 2022: </li>
+                <li> Unit 14: IT Service Delivery Exam May 2022: Predicted Pass</li>
                 <li> Unit 9: Project Managment: Distinction Overall </li>
                 <li> Unit 13: Software Testing: </li>
                 <li> Unit 19: Internet of Things: </li>
                 <li> Unit 12: IT Support and Management: Pass Overall </li>
-                <li> Unit 8: Computer Games Development: Failed Unit </li>
-            </ul> -->
+            </ul>
    </ul> 
     
 <h3> Additonal Qualifications: </h3>
