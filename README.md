@@ -53,12 +53,14 @@
         <li> GCSE English Literature - 3/D </li>
         <li> GCSE Computer Science - 2/E. I did a project within the GCSE which made for more than 50% of my GCSE Grade but didn't count due to said being leaked. In that project, I got a grade 6/B and failed due to paper results.</li>
         
-<!-- <h3> My programming Projects <h3> 
-        <ul>
-            <li></li>
-            <li></li>
-            <li></li>
-        </ul>
--->
+<h3> Achievements: </h3> 
+     <ul>
+         <li>Project Management: Distinction</li>
+         <li>Software Testing: Predicted Distinction</li>
+         <li>Internet of Things: Distinction</li>
+         <li>Software Development: Distinction</li>
+         <li>Additional 3 Merits and 11 Passes
+     </ul>
+
         
         
