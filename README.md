@@ -21,7 +21,7 @@
                 <li> Unit 3: Digital Portfolio: Merit Overall </li>
             </ul> 
             <p></p>
-        <li> 2020 - 2021: BTEC National Foundation Diploma in Information Technology Level 3/Equivilent to One A level: Overall Course Grade: PASS - Q tagged due to Covid Pandemic </li>
+        <li> 2020 - 2021: BTEC National Foundation Diploma in Information Technology Level 3/Equivalent to One A level: Overall Course Grade: PASS - Q tagged due to Covid Pandemic </li>
             <ul>
                 <li> Unit 1: Information Technology Systems: Pass </li>
                 <li> Unit 2: Creating Systems to Manage Data: Pass </li>
@@ -31,7 +31,7 @@
                 <li> Unit 7: Mobile Apps Development: Pass </li>
             </ul>
         <p></p> 
-            <li> 2021 - 2022: BTEC National Extended Diploma in Information Technology Level 3/Equivilent to 2 A levels: </li>
+            <li> 2021 - 2022: BTEC National Extended Diploma in Information Technology Level 3/Equivalent to 2 A levels: </li>
             <p> Overall Course Grade: Predicted MMM/Merit,Merit,Merit </p>
             <ul>
                 <li> Unit 11: Cyber Security and Incident Management Exam March 2022: P/Pass Overall </li>
