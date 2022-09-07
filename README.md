@@ -5,7 +5,7 @@
         <li> Python - Intermediate </li>
             <ul>
                 <li> Pandas - Intermediate </li>
-                <li> MatPlotLib - Beginner </li>
+                <li> MatPlotLib - Intermediate </li>
             </ul>
 <h3> My IT Qualifications </h3>
     <ul>
@@ -32,7 +32,7 @@
             </ul>
         <p></p> 
             <li> 2021 - 2022: BTEC National Extended Diploma in Information Technology Level 3/Equivalent to 2 A levels: </li>
-            <p> Overall Course Grade: Predicted MMM/Merit,Merit,Merit </p>
+            <p> Overall Course Grade: MMM/Merit,Merit,Merit </p>
             <ul>
                 <li> Unit 11: Cyber Security and Incident Management Exam March 2022: P/Pass Overall </li>
                 <li> Unit 14: IT Service Delivery Exam May 2022: Predicted Pass</li>
@@ -56,7 +56,7 @@
 <h3> Achievements: </h3> 
      <ul>
          <li>Project Management: Distinction</li>
-         <li>Software Testing: Predicted Distinction</li>
+         <li>Software Testing:  Distinction</li>
          <li>Internet of Things: Distinction</li>
          <li>Software Development: Distinction</li>
          <li>Additional 3 Merits and 11 Passes
